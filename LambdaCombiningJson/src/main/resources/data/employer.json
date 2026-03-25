@@ -1,0 +1,42 @@
+{
+  "EMP001": {
+    "companyName": "Acorn Analytics",
+    "employerID": "EMP001"
+  },
+  "EMP002": {
+    "companyName": "Blue Ridge Logistics",
+    "employerID": "EMP002"
+  },
+  "EMP003": {
+    "companyName": "Cedarline Health",
+    "employerID": "EMP003"
+  },
+  "EMP004": {
+    "companyName": "DeltaNova Systems",
+    "employerID": "EMP004"
+  },
+  "EMP005": {
+    "companyName": "Evergreen Retail Group",
+    "employerID": "EMP005"
+  },
+  "EMP006": {
+    "companyName": "ForgeWorks Manufacturing",
+    "employerID": "EMP006"
+  },
+  "EMP007": {
+    "companyName": "Golden Harbor Finance",
+    "employerID": "EMP007"
+  },
+  "EMP008": {
+    "companyName": "Horizon Education Services",
+    "employerID": "EMP008"
+  },
+  "EMP009": {
+    "companyName": "Ironclad Security",
+    "employerID": "EMP009"
+  },
+  "EMP010": {
+    "companyName": "Juniper Cloud Labs",
+    "employerID": "EMP010"
+  }
+}
